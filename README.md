@@ -18,7 +18,7 @@ The system uses a trained RandomForestClassifier to predict diseases from sympto
 
 ##  Live Demo
 
-> Want to try the app? [Coming Soon – Add Your Streamlit Cloud URL Here]
+> Want to try the app? https://disease-recommendation-system-jakkv3kvtcgcnwfrxykedz.streamlit.app/
 
 ---
 
